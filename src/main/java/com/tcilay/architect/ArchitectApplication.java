@@ -11,6 +11,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ArchitectApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ArchitectApplication.class);
+        SpringApplication.run(ArchitectApplication.class,args);
     }
 }
